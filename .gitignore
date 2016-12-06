@@ -1,0 +1,7 @@
+*.exe
+*.pbd
+*.cache
+*.csproj.FileListAbsolute.txt
+TemporaryGeneratedFile_*
+*.exe.config
+*.exe.manifest
